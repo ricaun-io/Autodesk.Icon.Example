@@ -3,7 +3,7 @@
 [![Autodesk](https://img.shields.io/badge/Autodesk-black?logo=autodesk&logoColor=white)](../..)
 [![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Image icon example based on the [Autodesk Icon Guidelines](#Autodesk-Icon-Guidelines) for light and dark theme.
+Image icon example based on the [Autodesk Icon Guidelines](#Autodesk-Icon-Guidelines) for light and dark themes.
 
 ## Revit Example
 
