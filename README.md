@@ -38,7 +38,7 @@ Each image icon has sizes 16 and 32 in `.png`. The `.ico` contains both sizes.
 
 ## Autodesk Icon Guidelines
 
-The Autodesk Icon Guidelines is available in the [The Building Coder](https://thebuildingcoder.typepad.com/blog/2023/01/dark-theme-possibility-looming.html#2.6).
+The Autodesk Icon Guidelines are available on [The Building Coder](https://thebuildingcoder.typepad.com/blog/2023/01/dark-theme-possibility-looming.html#2.6).
 
 * [Autodesk Icon Guidelines PDF](https://thebuildingcoder.typepad.com/icon/2023-01-20_icon_design_guidelines.pdf)
 * [Zip file including badges and PNG instructiuons](https://thebuildingcoder.typepad.com/icon/2023-01-20_icon_design_guideline.zip)
