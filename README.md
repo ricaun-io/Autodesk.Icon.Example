@@ -5,15 +5,13 @@
 
 Image icon example based on the [Autodesk Icon Guidelines](#Autodesk-Icon-Guidelines) for light and dark themes.
 
-## Revit Example
+## Revit Example `.ico`
 
 ### Light
-[![Images-Box-Light](assets/Images-Box-Light.png)](../..)
-[![Images-Cube-Light](assets/Images-Cube-Light.png)](../..)
+[![Images-Ico-Light](assets/Images-Ico-Light.png)](../..)
 
 ### Dark
-[![Images-Box-Dark](assets/Images-Box-Dark.png)](../..)
-[![Images-Cube-Dark](assets/Images-Cube-Dark.png)](../..)
+[![Images-Ico-Dark](assets/Images-Ico-Dark.png)](../..)
 
 ## Images
 
@@ -43,6 +41,59 @@ The Autodesk Icon Guidelines are available on [The Building Coder](https://thebu
 * [Autodesk Icon Guidelines PDF](https://thebuildingcoder.typepad.com/icon/2023-01-20_icon_design_guidelines.pdf)
 * [Zip file including badges and PNG instructiuons](https://thebuildingcoder.typepad.com/icon/2023-01-20_icon_design_guideline.zip)
 
+## Autodesk High Resolution Icons
+
+The high resolution icons is based in the AutoCAD icons that use `.tiff` file with `1.0`, `1.5`, `2.0`, `3.0`, and `4.0` scales for the same icon.
+
+### Tiff Size 16 Icon
+
+The files `{shape}-{color}-16-{theme}.tiff` have 5 frames for 16x16 icons with multiple resolutions.
+
+| Frame | Size | Dpi | Scale |
+| - | - | - | - |
+| 1 (16) | 16x16 | 96 | 1.0 |
+| 2 (16) | 24x24 | 144 | 1.5 |
+| 3 (16) | 32x32 | 192 | 2.0 |
+| 4 (16) | 48x48 | 288 | 3.0 |
+| 5 (16) | 64x64 | 392 | 4.0 |
+
+### Tiff Size 32 Icon
+
+The files `{shape}-{color}-32-{theme}.tiff` have 5 frames for 32x32 icons with multiple resolutions.
+
+| Frame | Size | Dpi | Scale |
+| - | - | - | - |
+| 1 (32) | 32x32 | 96 | 1.0 |
+| 2 (32) | 48x48 | 144 | 1.5 |
+| 3 (32) | 64x64 | 192 | 2.0 |
+| 4 (32) | 96x96 | 288 | 3.0 |
+| 5 (32) | 128x128 | 392 | 4.0 |
+
+### Tiff Size Icon
+
+The files `{shape}-{color}-{theme}.tiff` have 10 frames for 16x16 and 32x32 icons with multiple resolutions.
+
+| Frame | Size | Dpi | Scale |
+| - | - | - | - |
+| 1 (16) | 16x16 | 96 | 1.0 |
+| 2 (16) | 24x24 | 144 | 1.5 |
+| 3 (16) | 32x32 | 192 | 2.0 |
+| 4 (16) | 48x48 | 288 | 3.0 |
+| 5 (16) | 64x64 | 392 | 4.0 |
+| 6 (32) | 32x32 | 96 | 1.0 |
+| 7 (32) | 48x48 | 144 | 1.5 |
+| 8 (32) | 64x64 | 192 | 2.0 |
+| 9 (32) | 96x96 | 288 | 3.0 |
+| 10 (32) | 128x128 | 392 | 4.0 |
+
+## Revit Example `.tiff`
+
+Revit open with `2.0x` resolution, each small (16x16) image use the `32x32 (192 dpi)` and large (32x32) image use `64x64 (192 dpi)`.
+
+### Light
+[![Images-Tiff-Light](assets/Images-Tiff-Light.png)](../..)
+### Dark
+[![Images-Tiff-Dark](assets/Images-Tiff-Dark.png)](../..)
 
 ## Release
 
