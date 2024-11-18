@@ -88,7 +88,7 @@ The files `{shape}-{color}-{theme}.tiff` have 10 frames for 16x16 and 32x32 icon
 
 ## Revit Example `.tiff`
 
-Revit open with `2.0x` resolution, each small (16x16) image use the `32x32 (192 dpi)` and large (32x32) image use `64x64 (192 dpi)`.
+Revit open with `2.0x` resolution, each small (16x16) image use `32x32 (192 dpi)` and large (32x32) image use `64x64 (192 dpi)`.
 
 ### Light
 [![Images-Tiff-Light](assets/Images-Tiff-Light.png)](../..)
